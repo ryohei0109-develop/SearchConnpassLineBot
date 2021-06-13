@@ -1,0 +1,97 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ryohei/Documents/workspace/SearchConnpassLineBot/SearchConnpassLineBot/SearchConnpassLineBot.csproj": {}
+  },
+  "projects": {
+    "/Users/ryohei/Documents/workspace/SearchConnpassLineBot/SearchConnpassLineBot/SearchConnpassLineBot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ryohei/Documents/workspace/SearchConnpassLineBot/SearchConnpassLineBot/SearchConnpassLineBot.csproj",
+        "projectName": "SearchConnpassLineBot",
+        "projectPath": "/Users/ryohei/Documents/workspace/SearchConnpassLineBot/SearchConnpassLineBot/SearchConnpassLineBot.csproj",
+        "packagesPath": "/Users/ryohei/.nuget/packages/",
+        "outputPath": "/Users/ryohei/Documents/workspace/SearchConnpassLineBot/SearchConnpassLineBot/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ryohei/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Amazon.Lambda.APIGatewayEvents": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Amazon.Lambda.Serialization.SystemTextJson": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "AngleSharp": {
+              "target": "Package",
+              "version": "[0.15.0, )"
+            },
+            "BasicExtension": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "TimeZoneConverter": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[3.1.15, 3.1.15]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

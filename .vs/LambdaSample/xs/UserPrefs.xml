@@ -1,0 +1,28 @@
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{80A2143B-CB06-4349-9AE4-85C370468273}|Default">
+  <MonoDevelop.Ide.ItemProperties.SearchConnpassLineBot PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LambdaSample/Properties/launchSettings.json">
+    <Files>
+      <File FileName="LambdaSample/Function.cs" Line="14" Column="32" />
+      <File FileName="LambdaSample/Program.cs" Line="1" Column="1" />
+      <File FileName="LambdaSample/aws-lambda-tools-defaults.json" Line="1" Column="1" />
+      <File FileName="LambdaSample/Properties/launchSettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LambdaSample" expanded="True">
+            <Node name="SearchConnpassLineBot" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ryohei/Documents/workspace/SearchConnpassLineBot/LambdaSample/Program.cs" relfile="LambdaSample/Program.cs" line="20" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
